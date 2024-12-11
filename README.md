@@ -102,7 +102,7 @@ The project employs machine learning techniques to classify mushrooms as edible 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Farook269/Campus_Placement_Prediction.git
+   git clone https://github.com/Farook269/Mushroom_classification.git
    
    cd CampusPlacementPrediction
    ```
